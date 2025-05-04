@@ -91,8 +91,16 @@ Este projeto é ideal para estudos, protótipos de aplicações financeiras com 
 
 ---
 
-## 🚀 Como rodar
+## 🚀 Como Executar
 
+**Instalação dos pacotes necessários**
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+pip install --upgrade --no-cache-dir requests pandas numpy tweepy textblob openai plotly streamlit python-binance fpdf2 langgraph cachetools nest-asyncio ta python-dotenv kaleido loguru && python -m textblob.download_corpora
+```
+
+**Execução do app Streamlit**
+```bash
+streamlit run nome_do_arquivo.py
+```
+
+**Tela do Deploy**
