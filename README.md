@@ -59,8 +59,10 @@ A aplicação segue os seguintes passos:
 
 5. **Fluxo de Decisão dos Agentes**:
 
+<div align="center">
 <img src="https://github.com/gustavoptavares/agente_cripto/blob/main/Fluxo%20Decis%C3%A3o.png" alt="Fluxo do Agente Cripto" width="500"/>
-  
+</div>
+
 ---
 
 ## 📊 Resultados
