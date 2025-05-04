@@ -58,6 +58,9 @@ A aplicação segue os seguintes passos:
    - Interface em **Streamlit** exibe gráficos, relatórios e diagnósticos interativos
 
 5. **Fluxo de Decisão dos Agentes**:
+
+<img src="https://github.com/gustavoptavares/agente_cripto/blob/main/Fluxo%20Decis%C3%A3o.png" alt="Fluxo do Agente Cripto" width="500"/>
+  
 ---
 
 ## 📊 Resultados
