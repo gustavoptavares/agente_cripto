@@ -1,6 +1,6 @@
 # 🤖 Agente CriptoAI
 
-Este repositório apresenta o **Agente CriptoAI**, um agente financeiro de IA desenvolvido com Streamlit, focado na análise de criptomoedas. A solução simula um especialista que orienta o investidor a partir de dados técnicos e fundamentalistas do mercado cripto.
+Este repositório apresenta o **Agente CriptoAI**, um agente financeiro de IA desenvolvido com LangGraph, OpenAI (GPT-4), Binance API, Tweepy, TextBlob, Plotly, FPDF, Streamlit, focado na análise de criptomoedas. A solução simula um especialista que orienta o investidor a partir de dados técnicos e fundamentalistas do mercado cripto.
 
 ---
 
