@@ -104,3 +104,11 @@ streamlit run nome_do_arquivo.py
 ```
 
 **Tela do Deploy**
+
+<p align="center">
+  <img src="https://github.com/gustavoptavares/agente_cripto/blob/main/Deploy1.jpg" alt="Imagem 1" width="500"/>
+  <img src="https://github.com/gustavoptavares/agente_cripto/blob/main/Deploy2.jpg" alt="Imagem 1" width="500"/>
+  <img src="https://github.com/gustavoptavares/agente_cripto/blob/main/Deploy3.jpg" alt="Imagem 1" width="500"/>
+  <img src="https://github.com/gustavoptavares/agente_cripto/blob/main/Deploy4.jpg" alt="Imagem 1" width="500"/>
+  <img src="https://github.com/gustavoptavares/agente_cripto/blob/main/Deploy5.jpg" alt="Imagem 1" width="500"/>
+</p>
