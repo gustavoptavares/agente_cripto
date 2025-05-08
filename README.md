@@ -43,7 +43,7 @@ A aplicação segue os seguintes passos:
    - O usuário insere o símbolo da criptomoeda desejada (ex: `BTC-USD`) e um período de análise (ex: `1mo`).
 
 2. **Coleta e Processamento de Dados**:
-   - Coleta dados históricos via `yfinance`
+   - Coleta dados históricos via `Binance`
    - Calcula indicadores técnicos como RSI
    - Gera visualizações com **Plotly**
 
